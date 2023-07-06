@@ -1,2 +1,9 @@
 # Project-Central-Bank-Europe
-Gathering, Cleaning, and Proprocessing Dataset
+
+Using Python library Numpy to Gathering, Cleaning, and Proprocessing Dataset 
+
+The first task is:
+ * Take the raw dataset and prepare it for the predictive models
+   
+
+ 
